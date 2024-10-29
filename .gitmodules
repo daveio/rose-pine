@@ -1,0 +1,348 @@
+[submodule "rose-pine-site"]
+	path = rose-pine-site
+	url = https://github.com/rose-pine/rose-pine-site.git
+[submodule "starship"]
+	path = starship
+	url = https://github.com/rose-pine/starship.git
+[submodule "zen-browser"]
+	path = zen-browser
+	url = https://github.com/rose-pine/zen-browser.git
+[submodule "neovim"]
+	path = neovim
+	url = https://github.com/rose-pine/neovim.git
+[submodule "ghostty"]
+	path = ghostty
+	url = https://github.com/rose-pine/ghostty.git
+[submodule "vscode"]
+	path = vscode
+	url = https://github.com/rose-pine/vscode.git
+[submodule "mako"]
+	path = mako
+	url = https://github.com/rose-pine/mako.git
+[submodule "obsidian"]
+	path = obsidian
+	url = https://github.com/rose-pine/obsidian.git
+[submodule "gtk"]
+	path = gtk
+	url = https://github.com/rose-pine/gtk.git
+[submodule "discord-mobile"]
+	path = discord-mobile
+	url = https://github.com/rose-pine/discord-mobile.git
+[submodule "surfingkeys"]
+	path = surfingkeys
+	url = https://github.com/rose-pine/surfingkeys.git
+[submodule "discord"]
+	path = discord
+	url = https://github.com/rose-pine/discord.git
+[submodule "userstyles"]
+	path = userstyles
+	url = https://github.com/rose-pine/userstyles.git
+[submodule "build"]
+	path = build
+	url = https://github.com/rose-pine/build.git
+[submodule "zed"]
+	path = zed
+	url = https://github.com/rose-pine/zed.git
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/rose-pine/tmux.git
+[submodule "pygments"]
+	path = pygments
+	url = https://github.com/rose-pine/pygments.git
+[submodule "fzf"]
+	path = fzf
+	url = https://github.com/rose-pine/fzf.git
+[submodule "sublime-text"]
+	path = sublime-text
+	url = https://github.com/rose-pine/sublime-text.git
+[submodule "anytype"]
+	path = anytype
+	url = https://github.com/rose-pine/anytype.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/rose-pine/vim.git
+[submodule "wallpapers"]
+	path = wallpapers
+	url = https://github.com/rose-pine/wallpapers.git
+[submodule "qbittorrent"]
+	path = qbittorrent
+	url = https://github.com/rose-pine/qbittorrent.git
+[submodule "mastodon"]
+	path = mastodon
+	url = https://github.com/rose-pine/mastodon.git
+[submodule "helix"]
+	path = helix
+	url = https://github.com/rose-pine/helix.git
+[submodule "tm-theme"]
+	path = tm-theme
+	url = https://github.com/rose-pine/tm-theme.git
+[submodule "glazewm"]
+	path = glazewm
+	url = https://github.com/rose-pine/glazewm.git
+[submodule "rio-terminal"]
+	path = rio-terminal
+	url = https://github.com/rose-pine/rio-terminal.git
+[submodule "geany"]
+	path = geany
+	url = https://github.com/rose-pine/geany.git
+[submodule "cursor"]
+	path = cursor
+	url = https://github.com/rose-pine/cursor.git
+[submodule "grub"]
+	path = grub
+	url = https://github.com/rose-pine/grub.git
+[submodule "hyprland"]
+	path = hyprland
+	url = https://github.com/rose-pine/hyprland.git
+[submodule "typst"]
+	path = typst
+	url = https://github.com/rose-pine/typst.git
+[submodule "phemex"]
+	path = phemex
+	url = https://github.com/rose-pine/phemex.git
+[submodule "zellij"]
+	path = zellij
+	url = https://github.com/rose-pine/zellij.git
+[submodule "tym"]
+	path = tym
+	url = https://github.com/rose-pine/tym.git
+[submodule "skiff"]
+	path = skiff
+	url = https://github.com/rose-pine/skiff.git
+[submodule "rstudio"]
+	path = rstudio
+	url = https://github.com/rose-pine/rstudio.git
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/rose-pine/alacritty.git
+[submodule "ollama-webui"]
+	path = ollama-webui
+	url = https://github.com/rose-pine/ollama-webui.git
+[submodule "windows-terminal"]
+	path = windows-terminal
+	url = https://github.com/rose-pine/windows-terminal.git
+[submodule "i3"]
+	path = i3
+	url = https://github.com/rose-pine/i3.git
+[submodule "hyper"]
+	path = hyper
+	url = https://github.com/rose-pine/hyper.git
+[submodule "tidal"]
+	path = tidal
+	url = https://github.com/rose-pine/tidal.git
+[submodule "rose-pine-template"]
+	path = rose-pine-template
+	url = https://github.com/rose-pine/rose-pine-template.git
+[submodule "linear"]
+	path = linear
+	url = https://github.com/rose-pine/linear.git
+[submodule "steam-os"]
+	path = steam-os
+	url = https://github.com/rose-pine/steam-os.git
+[submodule "swaync"]
+	path = swaync
+	url = https://github.com/rose-pine/swaync.git
+[submodule "daisyui"]
+	path = daisyui
+	url = https://github.com/rose-pine/daisyui.git
+[submodule "alfred"]
+	path = alfred
+	url = https://github.com/rose-pine/alfred.git
+[submodule "pleroma"]
+	path = pleroma
+	url = https://github.com/rose-pine/pleroma.git
+[submodule "mona"]
+	path = mona
+	url = https://github.com/rose-pine/mona.git
+[submodule "kitty"]
+	path = kitty
+	url = https://github.com/rose-pine/kitty.git
+[submodule "vivaldi"]
+	path = vivaldi
+	url = https://github.com/rose-pine/vivaldi.git
+[submodule "dark-reader"]
+	path = dark-reader
+	url = https://github.com/rose-pine/dark-reader.git
+[submodule "waybar"]
+	path = waybar
+	url = https://github.com/rose-pine/waybar.git
+[submodule "pywal"]
+	path = pywal
+	url = https://github.com/rose-pine/pywal.git
+[submodule "firefox"]
+	path = firefox
+	url = https://github.com/rose-pine/firefox.git
+[submodule "btop"]
+	path = btop
+	url = https://github.com/rose-pine/btop.git
+[submodule "prism"]
+	path = prism
+	url = https://github.com/rose-pine/prism.git
+[submodule "palette"]
+	path = palette
+	url = https://github.com/rose-pine/palette.git
+[submodule "konsole"]
+	path = konsole
+	url = https://github.com/rose-pine/konsole.git
+[submodule "polybar"]
+	path = polybar
+	url = https://github.com/rose-pine/polybar.git
+[submodule "gdevelop"]
+	path = gdevelop
+	url = https://github.com/rose-pine/gdevelop.git
+[submodule "nomacs"]
+	path = nomacs
+	url = https://github.com/rose-pine/nomacs.git
+[submodule "pureref"]
+	path = pureref
+	url = https://github.com/rose-pine/pureref.git
+[submodule "xresources"]
+	path = xresources
+	url = https://github.com/rose-pine/xresources.git
+[submodule "rofi"]
+	path = rofi
+	url = https://github.com/rose-pine/rofi.git
+[submodule "atom"]
+	path = atom
+	url = https://github.com/rose-pine/atom.git
+[submodule "hljs"]
+	path = hljs
+	url = https://github.com/rose-pine/hljs.git
+[submodule "google-chrome"]
+	path = google-chrome
+	url = https://github.com/rose-pine/google-chrome.git
+[submodule "fcitx5"]
+	path = fcitx5
+	url = https://github.com/rose-pine/fcitx5.git
+[submodule "vimium-c"]
+	path = vimium-c
+	url = https://github.com/rose-pine/vimium-c.git
+[submodule "bspwm"]
+	path = bspwm
+	url = https://github.com/rose-pine/bspwm.git
+[submodule "startpage"]
+	path = startpage
+	url = https://github.com/rose-pine/startpage.git
+[submodule "tailwind-css"]
+	path = tailwind-css
+	url = https://github.com/rose-pine/tailwind-css.git
+[submodule "qterminal"]
+	path = qterminal
+	url = https://github.com/rose-pine/qterminal.git
+[submodule "st"]
+	path = st
+	url = https://github.com/rose-pine/st.git
+[submodule "xfce-terminal"]
+	path = xfce-terminal
+	url = https://github.com/rose-pine/xfce-terminal.git
+[submodule "lxterminal"]
+	path = lxterminal
+	url = https://github.com/rose-pine/lxterminal.git
+[submodule "linux-tty"]
+	path = linux-tty
+	url = https://github.com/rose-pine/linux-tty.git
+[submodule "rose-pine-theme"]
+	path = rose-pine-theme
+	url = https://github.com/rose-pine/rose-pine-theme.git
+[submodule "black-box"]
+	path = black-box
+	url = https://github.com/rose-pine/black-box.git
+[submodule "fish"]
+	path = fish
+	url = https://github.com/rose-pine/fish.git
+[submodule "bear-blog"]
+	path = bear-blog
+	url = https://github.com/rose-pine/bear-blog.git
+[submodule "mintty"]
+	path = mintty
+	url = https://github.com/rose-pine/mintty.git
+[submodule "misskey"]
+	path = misskey
+	url = https://github.com/rose-pine/misskey.git
+[submodule "gnome-terminal"]
+	path = gnome-terminal
+	url = https://github.com/rose-pine/gnome-terminal.git
+[submodule "revolt"]
+	path = revolt
+	url = https://github.com/rose-pine/revolt.git
+[submodule "ct.js"]
+	path = ct.js
+	url = https://github.com/rose-pine/ct.js.git
+[submodule "tauon"]
+	path = tauon
+	url = https://github.com/rose-pine/tauon.git
+[submodule "gitkraken"]
+	path = gitkraken
+	url = https://github.com/rose-pine/gitkraken.git
+[submodule "github-readme-stats"]
+	path = github-readme-stats
+	url = https://github.com/rose-pine/github-readme-stats.git
+[submodule "zer0bin"]
+	path = zer0bin
+	url = https://github.com/rose-pine/zer0bin.git
+[submodule "whoogle"]
+	path = whoogle
+	url = https://github.com/rose-pine/whoogle.git
+[submodule "amfora"]
+	path = amfora
+	url = https://github.com/rose-pine/amfora.git
+[submodule "termux"]
+	path = termux
+	url = https://github.com/rose-pine/termux.git
+[submodule "cava"]
+	path = cava
+	url = https://github.com/rose-pine/cava.git
+[submodule "aliucord"]
+	path = aliucord
+	url = https://github.com/rose-pine/aliucord.git
+[submodule "writefreely"]
+	path = writefreely
+	url = https://github.com/rose-pine/writefreely.git
+[submodule "r-markdown"]
+	path = r-markdown
+	url = https://github.com/rose-pine/r-markdown.git
+[submodule "instatus"]
+	path = instatus
+	url = https://github.com/rose-pine/instatus.git
+[submodule "slack"]
+	path = slack
+	url = https://github.com/rose-pine/slack.git
+[submodule "terminal.app"]
+	path = terminal.app
+	url = https://github.com/rose-pine/terminal.app.git
+[submodule "iterm"]
+	path = iterm
+	url = https://github.com/rose-pine/iterm.git
+[submodule "discordrpcmaker"]
+	path = discordrpcmaker
+	url = https://github.com/rose-pine/discordrpcmaker.git
+[submodule "monkeytype"]
+	path = monkeytype
+	url = https://github.com/rose-pine/monkeytype.git
+[submodule "termite"]
+	path = termite
+	url = https://github.com/rose-pine/termite.git
+[submodule "desmos-desktop"]
+	path = desmos-desktop
+	url = https://github.com/rose-pine/desmos-desktop.git
+[submodule "terminator"]
+	path = terminator
+	url = https://github.com/rose-pine/terminator.git
+[submodule "fluent-terminal"]
+	path = fluent-terminal
+	url = https://github.com/rose-pine/fluent-terminal.git
+[submodule "typora"]
+	path = typora
+	url = https://github.com/rose-pine/typora.git
+[submodule "cool-retro-term"]
+	path = cool-retro-term
+	url = https://github.com/rose-pine/cool-retro-term.git
+[submodule "mailspring"]
+	path = mailspring
+	url = https://github.com/rose-pine/mailspring.git
+[submodule "razer-cli"]
+	path = razer-cli
+	url = https://github.com/rose-pine/razer-cli.git
+[submodule "DOT-github"]
+	path = DOT-github
+	url = https://github.com/rose-pine/.github
